@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SDPVocabQuiz</string>
+
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_major">Enter Major</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="add_quiz">Add Quiz</string>
+    <string name="remove_quiz">Remove Quiz</string>
+    <string name="practice_quiz">Practice Quiz</string>
+    <string name="quiz_statistics">Quiz Statistics</string>
+    <string name="quiz_name">Enter Quiz Name</string>
+    <string name="quiz_description">Enter short description</string>
+    <string name="next_label">NEXT</string>
+    <string name="cancel_label">CANCEL</string>
+    <string name="num_words">Enter number of questions 1-10</string>
+    <string name="list_words">Enter comma-separated words</string>
+    <string name="list_words_def">Enter word definitions</string>
+    <string name="list_words_incdef">Enter 3x the number of words in incorrect definitions</string>
+    <string name="submit_btn">Submit</string>
+
+
+    <string-array name="major_names">
+
+        <item>Freshman</item>
+        <item>Sophomore</item>
+        <item>Junior</item>
+        <item>Senior</item>
+        <item>Grad</item>
+
+    </string-array>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_view_quizzes">ViewQuizzes</string>
+    <string name="title_activity_view_quiz_stats">viewQuizStats</string>
+
+
+</resources>
